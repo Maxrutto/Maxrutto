@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxrutto&label=Profile%20views&color=0e75b6&style=flat" alt="maxrutto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxrutto" alt="maxrutto" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/max_millan__" target="blank"><img src="https://img.shields.io/twitter/follow/max_millan__?logo=twitter&style=for-the-badge" alt="max_millan__" /></a> </p>
 
 - 🔭 I’m currently working on **back-end development**
