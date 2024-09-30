@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/max_millan__" target="blank"><img src="https://img.shields.io/twitter/follow/max_millan__?logo=twitter&style=for-the-badge" alt="max_millan__" /></a> </p>
 
-- 🔭 I’m currently working on **Back-end Development**
+- 🔭 I’m currently working on **Front-end Development**
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **JavaScript and advanced html and CSS**
 
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects**
 
-- 💬 Ask me about **Flask, Django**
+- 💬 Ask me about **Typescript, React**
 
 - 📫 How to reach me **ruttomaxmillan@gmail.com**
 
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/max_millan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max_millan__" height="30" width="40" /></a>
 </p>
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Maxmillan+Rutto.;Back+End+Engineer+/+Back+End+Dev;."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Maxmillan+Rutto.;Front+End+Engineer+/+Front+End+Dev;."
 />
 
 <h3 align="left">Languages and Tools:</h3>
