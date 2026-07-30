@@ -13,7 +13,7 @@ I build backend systems — currently a software-defined Wi-Fi network with M-Pe
 <a href="https://instagram.com/max_millan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="max_millan__" height="30" width="40" /></a>
 </p>
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Maxmillan+Rutto.;Front+End+Engineer+/+Front+End+Dev;."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Maxmillan+Rutto.;Back+End+Engineer+/+Full+Stack+Dev;."
 />
 
 <h3 align="left">Languages and Tools:</h3>
